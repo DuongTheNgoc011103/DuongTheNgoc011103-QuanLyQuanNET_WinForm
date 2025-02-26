@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|d:\\qu-n-l-qu-n-net-master\\da1_qlquannet\\da1_qlquannet\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\inhd.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\inhd.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmcthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmcthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\frmcthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\frmcthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\inhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\inhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\da1_qlquannet\\inhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D761A1-A412-425E-B853-409ABE3C30F2}|DA1_QLQuanNET\\DA1_QLQuanNET.csproj|solutionrelative:da1_qlquannet\\inhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 540,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmKhachHang.cs",
+              "ToolTip": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmKhachHang.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmKhachHang.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:58:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmKhachHang.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmKhachHang.cs [Design]*",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmKhachHang.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:58:17.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmHoaDon.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs*",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:57:41.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmHoaDon.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs [Design]*",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmHoaDon.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:57:35.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDichVu.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmDichVu.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:57:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmDangNhap.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:57:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INHD.cs",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\INHD.cs",
+              "ToolTip": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\INHD.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:16:31.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INHD.rdlc [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.rdlc",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\INHD.rdlc",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-25T13:15:56.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INHD.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\INHD.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\INHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:15:19.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCTHOADON.cs",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmCTHOADON.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmCTHOADON.cs",
+              "ToolTip": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmCTHOADON.cs",
+              "RelativeToolTip": "DA1_QLQuanNET\\frmCTHOADON.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:11:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCTHOADON.cs [Design]",
+              "DocumentMoniker": "D:\\Qu-n-L-Qu-n-Net-master\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmCTHOADON.cs",
+              "RelativeDocumentMoniker": "DA1_QLQuanNET\\frmCTHOADON.cs",
+              "ToolTip": "D:\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmCTHOADON.cs [Design]",
+              "RelativeToolTip": "..\\..\\PhanMem_QLQuanNET\\DA1_QLQuanNET\\DA1_QLQuanNET\\frmCTHOADON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:11:42.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

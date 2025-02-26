@@ -1,0 +1,210 @@
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe.config
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.pdb
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmTrangChu.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.Properties.Resources.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.GenerateResource.Cache
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.exe
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.pdb
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDangNhap.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmKhachHang.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMay.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.AssemblyReference.cache
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.CoreCompileInputs.cache
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMenu.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDichVu.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmHoaDon.resources
+D:\DA1_NET\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmCTHOADON.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.AssemblyReference.cache
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmCTHOADON.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDichVu.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmHoaDon.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMay.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmTrangChu.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDangNhap.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmKhachHang.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMenu.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.Properties.Resources.resources
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.GenerateResource.cache
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.CoreCompileInputs.cache
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.exe
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.pdb
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe.config
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe
+D:\DA1_NET - Copy (2)\C#\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.pdb
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe.config
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.pdb
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.AssemblyReference.cache
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmCTHOADON.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDichVu.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmHoaDon.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMay.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmTrangChu.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDangNhap.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmKhachHang.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMenu.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.Properties.Resources.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.GenerateResource.cache
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.CoreCompileInputs.cache
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.exe
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.pdb
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmAdmin.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.g.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQu.3A6CD27F.Up2Date
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.THONGKE.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.INHD.resources
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.xml
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\INHD.rdlc
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.SqlServer.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EnvDTE.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\stdole.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.MSXML.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.SqlServer.xml
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\INHD.rdlc
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe.config
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.exe
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\DA1_QLQuanNET.pdb
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.SqlServer.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EnvDTE.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\stdole.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\Microsoft.MSXML.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.xml
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\EntityFramework.SqlServer.xml
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.AssemblyReference.cache
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.g.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmAdmin.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmCTHOADON.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDichVu.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmHoaDon.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMay.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmTrangChu.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmDangNhap.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmKhachHang.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.frmMenu.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.INHD.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.Properties.Resources.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.THONGKE.resources
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.GenerateResource.cache
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.csproj.CoreCompileInputs.cache
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQu.3A6CD27F.Up2Date
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.exe
+D:\các đồ án\PhanMem_QLQuanNET\DA1_QLQuanNET\DA1_QLQuanNET\obj\Debug\DA1_QLQuanNET.pdb
